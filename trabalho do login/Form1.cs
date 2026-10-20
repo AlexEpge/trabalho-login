@@ -16,5 +16,10 @@ namespace trabalho_do_login
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
